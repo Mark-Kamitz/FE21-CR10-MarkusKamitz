@@ -1,4 +1,4 @@
-<nav class=" navbar shadow navbar-expand-lg navbar-light bg-light">
+<nav class=" navbar  sticky-top shadow navbar-expand-lg navbar-light bg-light">
         <div class=" container d-flex flex-row justify-content-between ">
             <div >
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
